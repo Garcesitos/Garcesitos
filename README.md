@@ -53,7 +53,7 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
 </p>
 
 ### Other Profiles
-
+<!--
 <p align="center">
   <a href="https://www.codechef.com/users/ujjwalsharma01">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
@@ -70,7 +70,7 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
   <a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
-</p>
+</p> -->
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
 
