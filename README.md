@@ -52,7 +52,7 @@ I'm deeply interested in:
 Apart from coding, I enjoy:
 
 - Playing video games both for fun and to indirectly learn about their functions and systems.
-- Spending time wwith friends.
+- Spending time with friends.
 - Travelling.
 
 ### 🌱 Future Goals
