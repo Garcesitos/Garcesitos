@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=windows&logoColor=white)
 
 **🛠️ ERP, CRM, CMS**  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Odoo](https://img.shields.io/badge/odoo-%23005F53.svg?style=flat&logo=odoo&logoColor=white)
 
 **💻 Version controller**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
