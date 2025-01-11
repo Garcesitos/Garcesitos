@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-8B1A1A?style=flat&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-25B8A1?style=flat&logo=java&logoColor=white)
 
 **🗄️ Data Bases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=Oracle&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=windows&logoColor=white)
 
 **🛠️ ERP, CRM, CMS & CRUD**  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
